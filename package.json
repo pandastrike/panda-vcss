@@ -1,0 +1,36 @@
+{
+  "name": "panda-vcss",
+  "version": "1.0.0",
+  "description": "Virtual CSS for JavaScript.",
+  "main": "build/npm/src/index.js",
+  "dependencies": {
+    "fairmont-helpers": "^3.3.2",
+    "fairmont-multimethods": "^2.0.2"
+  },
+  "devDependencies": {
+    "amen": "^2.0.5",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "panda-builder": "^1.1.1",
+    "panda-vdom": "^1.0.0",
+    "power-assert": "^1.4.4"
+  },
+  "scripts": {
+    "test": "gulp npm:test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandastrike/biscotti.git"
+  },
+  "keywords": [
+    "css",
+    "virtual",
+    "javascript",
+    "coffeescript"
+  ],
+  "author": "Dan Yoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandastrike/biscotti/issues"
+  },
+  "homepage": "https://github.com/pandastrike/biscotti#readme"
+}
